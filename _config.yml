@@ -1,7 +1,7 @@
 # Site settings
 title: 良弼  #Blog标题
 SEOTitle: 秦良弼   #作为页面栏的名称
-header-img: img/cover-background.jpg
+header-img: img/cover-background.png
 email: sherskevin@gmail.com
 description: "江河湖海，不必相逢"
 keyword: "秦良弼, Blog, C++, 算法, XMU, 计算机科学与技术, 计算机网络, 操作系统"
